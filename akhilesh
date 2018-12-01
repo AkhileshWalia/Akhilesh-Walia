@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Role Model </title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Add custom CSS here -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    
+            
+            
+
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header">
+        <div class="vert-text">
+            <h1><b>Role Model </b></h1>
+            
+                
+            
+        </div>
+    </div>
+    <!-- /Full Page Image Header Area -->
+
+    <!-- Intro -->
+   
+
+    <!-- Services -->
+    
+   
+
+    <!-- Portfolio -->
+    <div id="portfolio" class="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <h2><font size="15"><b>Roles Models</b></font></h2>
+<br><br>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-md-offset-2 text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="Apj.jpg">
+                        </a>
+                        <h4><b>APJ Abdul Kalam</b></h4>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="Bill gates.jpg">
+                        </a>
+                        <h4><b>Bill Gates</b></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-md-offset-2 text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="Richard.jpg">
+                        </a>
+                        <h4><b>Richard Branson</b></h4>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="sergey.jpg">
+                        </a>
+                        <h4><b>Sergey Brin</b></h4>
+                    </div>
+                </div>
+				<div class="col-md-4 col-md-offset-2 text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="steve jobs.jpg">
+                        </a>
+                        <h4><b>Steve Jobs</b></h4>
+                    </div>
+                </div>
+				<div class="col-md-4  text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="Mark.jpg">
+                        </a>
+                        <h4><b>Mark Zukerberg</b></h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Portfolio -->
+
+  <div id="portfolio" class="portfolio">
+        <div class="container">
+			<div class="row"><center>
+				<h2><font size="15"><b>Best Role Models</b></font></h2>
+<br><br>
+				
+				<div class="col-md-4 col-md-offset-2 text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="sergey.jpg">
+                        </a>
+                        <h4><b>Sergey Brin</b></h4>
+						<div><p>Sergey Brin is an American computer scientist and internet entrepreneur, who, along with Larry Page, co-founded Google Inc in 1998. Brin migrated to the U.S from the Soviet Union, at a young age. He studied mathematics and computer science in college before going to the Stanford University to pursue a PhD in computer science. The crucial moment in the biography of Sergey Brin happened in March 1995 when he met Lawrence “Larry” Page at the spring meeting of the prospective Ph.D.s in Computer Science, who later became the CEO of Google. In the summer of 1995, Sergey Brin was assigned to accompany Larry Page on campus. Initially, they were not happy with each other, and they were arguing and furiously discussing any topic.
+</p></div>
+                    </div>
+                </div>
+				
+				<div class="col-md-4  text-center">
+                    <div class="portfolio-item">
+                        <a href="#">
+                            <img class="img-portfolio img-responsive" src="Bill gates.jpg">
+                        </a>
+                        <h4><b>Bill Gates</b></h4>
+						<div><center><p>·Gates is one of the best-known entrepreneurs of the personal computer revolution.<br>
+·He has been criticized for his business tactics, which have been considered anti-competitive.<br>
+·He donated large amounts of money to various charitable organizations and scientific research programs through the Bill &  his wife Melinda Gates Foundation, which was established in 2000.<br>
+·He has launched the phone but he was fail in that but he started again with his dedication, hard work.<br>
+·He was also expelled from the university but he never lose  hope and never give up.<br>
+·He shows his dedication , power,  hard work, passion.<br>
+·Microsoft launched its first retail version of Microsoft Windows on November 20, 1985.
+</p></center></div>
+                    </div>
+                </div>
+				
+				</center></div></div></div>
+	<h5><u><i><center><font size="7"> <b>Questions</b></font></i></u></center></h5>
+<br><br>
+<p1><center><font size="6"><b>Q.</b>What is a role model?</font><br>An individual who is looked up to and revered by someone else. A role model is someone who other individuals aspire to be like, either in the present or in the future. A role model may be someone who you know and interact with on a regular basis, or may be someone who you've never met, such as a celebrity. </center> </p1>
+<h4><center><font size="6"><b>Q.</b>How can a role model help young professionals plan for and improve the probability of professional career success?</font></center></h4><br> <p2><center><b>Learn the characteristics of a successful person<br></b>
+
+"Success" is a subjective term, but if someone is a role model they have done something to be successful in your eyes. Whether they are the senior class valedictorian, olympic gold medalist, or your stay-at-home mom, the person you look up to has valuable qualities you can learn from. For example, your mom might teach you how to be patient even in the most frustrating circumstances while the gold medalist could teach you about disciple. <br><b>
+	 Learn how to overcome obstacles<br></b>
+
+Everyone has a story of a time they had to overcome adversity. Hearing that Michael Jordan didn't make his high school's varsity basketball team, or that Oprah Winfrey was fired as a news reporter reminds us that failure won't prevent you from being successful in the future. Understanding how your role models overcame their obstacles will help you prepare to deal with future drawbacks. 
+	<h3><center><font size="6"><b>Q.</b>How will it benefit a recent B.Tech graduate to have found and studied the professional career of one or two relevant role models?</font></center></h3><br><p4><center> <b>Learn from mistakes<br></b>
+
+Nobody is perfect, not even the person you look up to. At best, when your role model makes a mistake you will learn from it. At worst, you will at least get a reminder that everybody makes mistakes. An athlete might take steroids or a businessman might commit fraud but that does not necessarily make them bad people. Those were their reactions to pressure or adversity, and in the future you will learn from their actions and react differently. <b> <br> Become the best version of yourself<br></b>
+
+Even though having a role model means looking up to another person, the end goal is to become the best version of yourself. Having someone to emulate gives you a guideline of values and actions to follow, but at the end of the day you are also your own person. Learn from others' actions and qualities and use them to improve your existing characteristics, and you will become someone else's role model one day. </center></p4>
+	<br><br>
+	<h5><center><font size="7"><b>Bill Gates</b></font></center></h5>
+	<br><br>
+	<p6><center><bold><font size="5">Lessons Learnt</font></bold></center></p6>
+<ul>
+<li><center>Work hard for your dreams</center></li>
+<li><center>Challenge your existing beliefs</center></li>
+<li><center>Take calculated risk</center></li>
+<li><center>Leave the World a Better Place Than You Found It</center></li>
+<li><center>Change the world, or go home.</center></li>
+<li><center>Blaze the trail.</center></li>
+</ul>
+
+<br><br>
+<h5><center><font size="7"><b>Sergey Brin</b></font></center></h5>
+<br><br><p6><center><bold><font size="5">Lessons Learnt</font></bold></center></p6>
+<ul>
+<li><center>Solving big problems is easier than solving little problems.”</center></li>
+<li><center>"We just want to have great people working for us"</center></li>
+<li><center>“Ultimately you want to have the entire world’s knowledge connected directly to your mind.”</center></li>
+<li><center>“I feel there’s an existential angst among young people. I didn’t have that. They see enormous mountains, where I only saw one little hill to climb.”</center></li>
+<li><center>“We believed we could build a better search. We had a simple idea that not all pages are created equal. Some are more important.”</center></li>
+</ul>
+
+
+
+
+  
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                
+                    
+                    <div class="top-scroll">
+                        <a href="#top"><i class="fa fa-circle-arrow-up scroll fa-4x"></i></a>
+                    </div>
+                    <hr>
+                    
+                
+            </div>
+        </div>
+    </footer>
+    <!-- /Footer -->
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+    <!-- Custom JavaScript for the Side Menu and Smooth Scrolling -->
+    <script>
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    </script>
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    </script>
+    <script>
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+
+</body>
+
+</html>
